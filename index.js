@@ -60,4 +60,4 @@ function generateCustomerReport(customerId) {
 
 }
 
-console.log(generateCustomerReport('85c9427f-950f-4936-bcd5-3ed9823c9900'))
+generateCustomerReport('85c9427f-950f-4936-bcd5-3ed9823c9900')
