@@ -1,12 +1,8 @@
-import customers from './data/customers.json' assert {type: "json"};
-import products from './data/products.json' assert {type: "json"};
-import receipts from './data/receipts.json' assert {type: "json"};
+import customerList from './data/customers.json' assert {type: "json"};
+import productList from './data/products.json' assert {type: "json"};
+import receiptsList from './data/receipts.json' assert {type: "json"};
 
-const customerList = customers
-const productList = products
-const receiptsList = receipts
-
-function generateCustomerReport(customerId) {
+const generateCustomerReport = (customerId) => {
 
 	//Getting the customer receipt data with customerId
 	const customerReceipts = receiptsList.filter(item => item.customerId === customerId);
@@ -50,14 +46,11 @@ function generateCustomerReport(customerId) {
 
 	//End result
 	const result = {
-		customer: customer,
-		items: items,
-		total: total,
-		byDay: byDay
+		customer, items, total, byDay,
 	}
 
 	return result
 
 }
 
-generateCustomerReport('85c9427f-950f-4936-bcd5-3ed9823c9900')
+console.log(generateCustomerReport('85c9427f-950f-4936-bcd5-3ed9823c9900'))
