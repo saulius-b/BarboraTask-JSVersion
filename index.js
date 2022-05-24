@@ -22,8 +22,8 @@ const generateCustomerReport = (customerId) => {
 
 	items.sort((a, b) => {
 
-		let dateA = new Date(a.createdAt);
-		let dateB = new Date(b.createdAt);
+		const dateA = new Date(a.createdAt);
+		const dateB = new Date(b.createdAt);
 
 		return dateA - dateB;
 	});
@@ -53,4 +53,4 @@ const generateCustomerReport = (customerId) => {
 
 }
 
-console.log(generateCustomerReport('85c9427f-950f-4936-bcd5-3ed9823c9900'))
+generateCustomerReport('85c9427f-950f-4936-bcd5-3ed9823c9900')
