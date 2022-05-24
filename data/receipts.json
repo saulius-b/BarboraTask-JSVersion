@@ -1,0 +1,602 @@
+[
+ {
+  "customerId": "6fbe024f-2316-4265-a6e8-d65a837e308a",
+  "productId": "f761e31f-847e-49e8-ab2c-e5a5385f2772",
+  "quantity": 2,
+  "createdAt": "2021-02-15T16:44:28.712Z"
+ },
+ {
+  "customerId": "801ae3e4-4790-4999-af94-b3186fb7680c",
+  "productId": "8ea0fbb9-0af5-4e45-86e3-93a879f9b85a",
+  "quantity": 2,
+  "createdAt": "2021-09-01T05:34:26.661Z"
+ },
+ {
+  "customerId": "6300466f-458c-4c2e-9c29-b2b6bb40b738",
+  "productId": "b6ebdd2a-4f10-4f53-aa71-c3f851e69875",
+  "quantity": 5,
+  "createdAt": "2021-05-01T09:46:10.398Z"
+ },
+ {
+  "customerId": "850dc43b-c966-4dcb-a862-5021e0e1c39b",
+  "productId": "5c3e7adc-d491-43e2-ab93-d8abe332e092",
+  "quantity": 8,
+  "createdAt": "2021-05-03T15:48:41.812Z"
+ },
+ {
+  "customerId": "d054a775-6360-4685-a986-2f6aa346053c",
+  "productId": "9c7199c0-f040-467e-a46a-16d2815bf8fd",
+  "quantity": 5,
+  "createdAt": "2021-10-19T18:52:40.314Z"
+ },
+ {
+  "customerId": "3811354e-e283-4432-94a9-f507771d9695",
+  "productId": "5c3e7adc-d491-43e2-ab93-d8abe332e092",
+  "quantity": 7,
+  "createdAt": "2021-10-05T05:20:20.162Z"
+ },
+ {
+  "customerId": "7fd00d1d-6794-4dc9-b82d-ebe573da69a1",
+  "productId": "c0d0f2ac-d0bf-4b8d-ae1e-66f14db8a8ed",
+  "quantity": 5,
+  "createdAt": "2021-10-30T22:00:50.029Z"
+ },
+ {
+  "customerId": "ec8eb212-93d9-4be8-bdbb-b4ef693a271e",
+  "productId": "4f7c0c73-8dd3-41a6-b4b3-6fc6e4951a28",
+  "quantity": 1,
+  "createdAt": "2021-06-25T18:45:07.648Z"
+ },
+ {
+  "customerId": "89b62487-38cd-4bd2-8df0-ed58b6ac3bbf",
+  "productId": "2057536f-fff9-4ffb-90e6-6e3dfaa418da",
+  "quantity": 9,
+  "createdAt": "2021-06-30T07:22:50.460Z"
+ },
+ {
+  "customerId": "b8007ffd-5072-4158-aec8-54f59ee3d0ef",
+  "productId": "4fe0adc2-91d2-4b92-9924-de5394d037d8",
+  "quantity": 3,
+  "createdAt": "2021-10-16T18:05:34.919Z"
+ },
+ {
+  "customerId": "3811354e-e283-4432-94a9-f507771d9695",
+  "productId": "3092de5a-9923-430c-a274-eb0090b46575",
+  "quantity": 0,
+  "createdAt": "2021-02-01T16:05:25.007Z"
+ },
+ {
+  "customerId": "eee9d6ea-3216-4355-a2d9-16fd227b23e9",
+  "productId": "867b51a3-e759-4fc4-9396-63ad36892f02",
+  "quantity": 13,
+  "createdAt": "2021-07-20T01:14:11.947Z"
+ },
+ {
+  "customerId": "1c21541c-23ea-498d-a945-1bb8cbe2ea06",
+  "productId": "ade90dbe-55e1-41b0-b82f-9f033dca0a4d",
+  "quantity": 10,
+  "createdAt": "2021-06-12T13:55:29.044Z"
+ },
+ {
+  "customerId": "89b62487-38cd-4bd2-8df0-ed58b6ac3bbf",
+  "productId": "f6bfa455-ff2c-4aed-8566-3e44bcbc7a54",
+  "quantity": 3,
+  "createdAt": "2021-10-01T01:50:12.120Z"
+ },
+ {
+  "customerId": "68bc8e83-fbc4-409b-a75f-1384b17651da",
+  "productId": "f6bfa455-ff2c-4aed-8566-3e44bcbc7a54",
+  "quantity": 3,
+  "createdAt": "2021-06-05T00:44:28.904Z"
+ },
+ {
+  "customerId": "925980eb-57ec-4970-8edb-8f1272be3b71",
+  "productId": "27a8987e-6a91-4d4c-b96e-517f1013f6c1",
+  "quantity": 9,
+  "createdAt": "2021-05-09T15:54:56.159Z"
+ },
+ {
+  "customerId": "7fd00d1d-6794-4dc9-b82d-ebe573da69a1",
+  "productId": "8198c0ff-e926-4f2d-baeb-5fc240fabfae",
+  "quantity": 6,
+  "createdAt": "2021-06-04T16:14:57.251Z"
+ },
+ {
+  "customerId": "eeca8404-4d88-4dc2-91b0-87c0917c5a1c",
+  "productId": "4d70bf69-ae99-4449-8881-fe2d8d52cfcb",
+  "quantity": 1,
+  "createdAt": "2021-08-18T11:05:04.487Z"
+ },
+ {
+  "customerId": "6b7cb5ed-46dd-4aa0-ab19-0a1979150fcf",
+  "productId": "b6ebdd2a-4f10-4f53-aa71-c3f851e69875",
+  "quantity": 7,
+  "createdAt": "2021-10-10T11:22:25.478Z"
+ },
+ {
+  "customerId": "9cf6fe83-e0ae-4647-a908-7ece569f0252",
+  "productId": "09bf8959-a5da-4e0a-af2d-a221580c3cf2",
+  "quantity": 14,
+  "createdAt": "2021-10-04T12:56:51.522Z"
+ },
+ {
+  "customerId": "d054a775-6360-4685-a986-2f6aa346053c",
+  "productId": "f84d9367-a44b-4dc1-b050-82165fb13a88",
+  "quantity": 5,
+  "createdAt": "2021-04-16T19:29:11.470Z"
+ },
+ {
+  "customerId": "3834276b-021e-4aac-b123-a39eab88147d",
+  "productId": "4fe0adc2-91d2-4b92-9924-de5394d037d8",
+  "quantity": 11,
+  "createdAt": "2021-06-14T12:17:31.301Z"
+ },
+ {
+  "customerId": "7fd00d1d-6794-4dc9-b82d-ebe573da69a1",
+  "productId": "8198c0ff-e926-4f2d-baeb-5fc240fabfae",
+  "quantity": 6,
+  "createdAt": "2021-08-06T06:40:32.932Z"
+ },
+ {
+  "customerId": "60430a27-c822-499e-b1d7-92f4ec9a0b13",
+  "productId": "88be8863-f604-4e7e-9643-b9f28cf4346e",
+  "quantity": 6,
+  "createdAt": "2021-01-15T03:05:28.945Z"
+ },
+ {
+  "customerId": "bfa49e40-b5f1-46ec-90cd-b37614311ee5",
+  "productId": "7579eb8d-6044-41b6-90e4-687f613a270c",
+  "quantity": 2,
+  "createdAt": "2021-03-01T23:07:36.119Z"
+ },
+ {
+  "customerId": "b8007ffd-5072-4158-aec8-54f59ee3d0ef",
+  "productId": "6cb4d9f6-3612-4738-9049-b294af0eaf80",
+  "quantity": 13,
+  "createdAt": "2021-07-31T22:57:17.553Z"
+ },
+ {
+  "customerId": "501c55ff-2375-4a80-847d-12508badc526",
+  "productId": "d7ba2db2-6db5-4de8-8c17-ff9b6b26a30a",
+  "quantity": 1,
+  "createdAt": "2021-01-20T18:34:34.198Z"
+ },
+ {
+  "customerId": "2542f6e3-d68f-4152-b6a8-64d49746cb60",
+  "productId": "8fe34c15-336f-4d44-ba79-0660bb2456d6",
+  "quantity": 8,
+  "createdAt": "2021-06-02T05:14:25.869Z"
+ },
+ {
+  "customerId": "68bc8e83-fbc4-409b-a75f-1384b17651da",
+  "productId": "1c7198c1-f934-4fa6-b483-a7d1c690786a",
+  "quantity": 8,
+  "createdAt": "2021-02-26T23:46:31.633Z"
+ },
+ {
+  "customerId": "89b62487-38cd-4bd2-8df0-ed58b6ac3bbf",
+  "productId": "f8ed956f-a674-4603-bb79-b9a6b306efe7",
+  "quantity": 15,
+  "createdAt": "2021-04-01T05:08:10.488Z"
+ },
+ {
+  "customerId": "bd7f797a-71cf-46ce-b0ac-02b9b098104f",
+  "productId": "b6ebdd2a-4f10-4f53-aa71-c3f851e69875",
+  "quantity": 9,
+  "createdAt": "2021-09-05T14:53:51.222Z"
+ },
+ {
+  "customerId": "60430a27-c822-499e-b1d7-92f4ec9a0b13",
+  "productId": "6405325a-2190-4968-959a-83b0fbf70b92",
+  "quantity": 10,
+  "createdAt": "2021-10-06T05:15:36.021Z"
+ },
+ {
+  "customerId": "eeca8404-4d88-4dc2-91b0-87c0917c5a1c",
+  "productId": "2125dbf1-e656-4c68-9da7-59ec41182549",
+  "quantity": 2,
+  "createdAt": "2021-02-02T08:16:23.458Z"
+ },
+ {
+  "customerId": "801ae3e4-4790-4999-af94-b3186fb7680c",
+  "productId": "83879163-c548-4a6f-b0db-e1d8aa633ea9",
+  "quantity": 2,
+  "createdAt": "2021-11-18T06:53:12.651Z"
+ },
+ {
+  "customerId": "73775b03-83ad-4062-9935-1e8c73239a82",
+  "productId": "c8a0d902-4a5f-41da-bdb5-c37783255b27",
+  "quantity": 3,
+  "createdAt": "2021-01-09T20:02:43.371Z"
+ },
+ {
+  "customerId": "6b7cb5ed-46dd-4aa0-ab19-0a1979150fcf",
+  "productId": "2ba682c3-65ff-48f7-8bb9-955783f6a057",
+  "quantity": 6,
+  "createdAt": "2021-04-04T06:26:04.334Z"
+ },
+ {
+  "customerId": "13f024cd-d1ba-4922-87e5-73d9d42e8e74",
+  "productId": "9153e0ea-e336-4a2b-a466-746718c12067",
+  "quantity": 4,
+  "createdAt": "2021-11-23T05:33:21.768Z"
+ },
+ {
+  "customerId": "2fc2308e-cb04-456d-9d58-0d9f3dad510a",
+  "productId": "2ba682c3-65ff-48f7-8bb9-955783f6a057",
+  "quantity": 15,
+  "createdAt": "2021-05-23T16:14:43.275Z"
+ },
+ {
+  "customerId": "ca853d03-3b34-49c4-a8c6-503dc74fb0b2",
+  "productId": "c8a0d902-4a5f-41da-bdb5-c37783255b27",
+  "quantity": 13,
+  "createdAt": "2021-11-03T04:59:56.948Z"
+ },
+ {
+  "customerId": "9e1b0712-6fc2-463e-a867-25b530a7ce3e",
+  "productId": "dd7e06d4-add4-4f10-b381-167d418762fc",
+  "quantity": 15,
+  "createdAt": "2021-04-14T00:55:39.991Z"
+ },
+ {
+  "customerId": "501c55ff-2375-4a80-847d-12508badc526",
+  "productId": "6b58da95-c760-4161-b5d3-ed49ab973123",
+  "quantity": 2,
+  "createdAt": "2021-07-02T19:10:16.155Z"
+ },
+ {
+  "customerId": "7e65f92f-f6c3-4d2a-9a07-50f5c73b9777",
+  "productId": "6b58da95-c760-4161-b5d3-ed49ab973123",
+  "quantity": 2,
+  "createdAt": "2021-01-16T14:32:49.275Z"
+ },
+ {
+  "customerId": "4357e56a-be87-47c7-b1af-2262e29dcf8f",
+  "productId": "1c7198c1-f934-4fa6-b483-a7d1c690786a",
+  "quantity": 8,
+  "createdAt": "2021-01-04T09:14:06.413Z"
+ },
+ {
+  "customerId": "68bc8e83-fbc4-409b-a75f-1384b17651da",
+  "productId": "f8ed956f-a674-4603-bb79-b9a6b306efe7",
+  "quantity": 4,
+  "createdAt": "2021-08-13T04:57:11.506Z"
+ },
+ {
+  "customerId": "bd7f797a-71cf-46ce-b0ac-02b9b098104f",
+  "productId": "8198c0ff-e926-4f2d-baeb-5fc240fabfae",
+  "quantity": 9,
+  "createdAt": "2021-02-08T06:26:35.168Z"
+ },
+ {
+  "customerId": "6fbe024f-2316-4265-a6e8-d65a837e308a",
+  "productId": "64d91f51-0179-463a-8297-ae1c1aa86f18",
+  "quantity": 1,
+  "createdAt": "2021-08-21T21:13:54.672Z"
+ },
+ {
+  "customerId": "8c3e0b81-2060-4108-b1d4-838fd4134199",
+  "productId": "525a03a2-b698-4a22-82c8-2ec2f7f657b2",
+  "quantity": 5,
+  "createdAt": "2021-04-13T06:31:38.540Z"
+ },
+ {
+  "customerId": "ca853d03-3b34-49c4-a8c6-503dc74fb0b2",
+  "productId": "2ba682c3-65ff-48f7-8bb9-955783f6a057",
+  "quantity": 10,
+  "createdAt": "2021-09-28T00:55:27.783Z"
+ },
+ {
+  "customerId": "60430a27-c822-499e-b1d7-92f4ec9a0b13",
+  "productId": "6869d317-173c-4da8-bdad-7185a427c49e",
+  "quantity": 5,
+  "createdAt": "2021-08-04T17:01:51.116Z"
+ },
+ {
+  "customerId": "d7894f73-4334-4ace-b30e-873bc4470391",
+  "productId": "83507bdb-c58d-426b-9ca7-9d368ee047dd",
+  "quantity": 8,
+  "createdAt": "2021-05-26T19:17:25.062Z"
+ },
+ {
+  "customerId": "925980eb-57ec-4970-8edb-8f1272be3b71",
+  "productId": "ac5af445-e699-4bbf-9fa1-34e0cc4e48ea",
+  "quantity": 15,
+  "createdAt": "2021-07-04T08:03:26.128Z"
+ },
+ {
+  "customerId": "eee9d6ea-3216-4355-a2d9-16fd227b23e9",
+  "productId": "738fe7f9-abbb-450e-bd08-1ddd0c92f8ce",
+  "quantity": 14,
+  "createdAt": "2021-12-08T11:21:40.614Z"
+ },
+ {
+  "customerId": "13f024cd-d1ba-4922-87e5-73d9d42e8e74",
+  "productId": "769e9377-fde9-487b-8498-7a38192d0e89",
+  "quantity": 8,
+  "createdAt": "2021-12-24T10:51:59.984Z"
+ },
+ {
+  "customerId": "6b7cb5ed-46dd-4aa0-ab19-0a1979150fcf",
+  "productId": "09bf8959-a5da-4e0a-af2d-a221580c3cf2",
+  "quantity": 11,
+  "createdAt": "2021-11-25T01:36:17.716Z"
+ },
+ {
+  "customerId": "ca853d03-3b34-49c4-a8c6-503dc74fb0b2",
+  "productId": "5ee5b75d-098a-4d4e-b99a-2a021e7d0bab",
+  "quantity": 10,
+  "createdAt": "2021-05-24T22:22:26.686Z"
+ },
+ {
+  "customerId": "2542f6e3-d68f-4152-b6a8-64d49746cb60",
+  "productId": "43a58a30-7a5f-4b53-adf8-08a4a207afa2",
+  "quantity": 12,
+  "createdAt": "2021-06-15T10:58:30.386Z"
+ },
+ {
+  "customerId": "d054a775-6360-4685-a986-2f6aa346053c",
+  "productId": "e8e548fa-d66e-47da-82d0-14b03a68355c",
+  "quantity": 7,
+  "createdAt": "2021-12-03T15:19:06.347Z"
+ },
+ {
+  "customerId": "9cf6fe83-e0ae-4647-a908-7ece569f0252",
+  "productId": "5bd7cc9a-b4e8-4db8-880b-46c8e7ad2dc6",
+  "quantity": 7,
+  "createdAt": "2021-09-27T17:35:42.531Z"
+ },
+ {
+  "customerId": "89b62487-38cd-4bd2-8df0-ed58b6ac3bbf",
+  "productId": "af4fd35e-bf31-478c-b6d2-8a6c14e78e3d",
+  "quantity": 10,
+  "createdAt": "2021-01-19T18:34:21.791Z"
+ },
+ {
+  "customerId": "9e1b0712-6fc2-463e-a867-25b530a7ce3e",
+  "productId": "ac5af445-e699-4bbf-9fa1-34e0cc4e48ea",
+  "quantity": 5,
+  "createdAt": "2021-04-27T19:25:50.004Z"
+ },
+ {
+  "customerId": "ca853d03-3b34-49c4-a8c6-503dc74fb0b2",
+  "productId": "0f4481cb-088c-4c6a-8e11-c48e5ce96dce",
+  "quantity": 9,
+  "createdAt": "2021-03-02T07:15:26.028Z"
+ },
+ {
+  "customerId": "6fbe024f-2316-4265-a6e8-d65a837e308a",
+  "productId": "5bd7cc9a-b4e8-4db8-880b-46c8e7ad2dc6",
+  "quantity": 4,
+  "createdAt": "2021-10-21T09:06:48.820Z"
+ },
+ {
+  "customerId": "85c9427f-950f-4936-bcd5-3ed9823c9900",
+  "productId": "5ca8ed17-ed3c-4d6a-a572-1aed0dda5fe9",
+  "quantity": 2,
+  "createdAt": "2021-08-03T02:16:45.018Z"
+ },
+ {
+  "customerId": "7e65f92f-f6c3-4d2a-9a07-50f5c73b9777",
+  "productId": "356c3fdf-fe1f-4b75-aa74-0a35d49eaf89",
+  "quantity": 8,
+  "createdAt": "2021-01-24T01:05:09.765Z"
+ },
+ {
+  "customerId": "6b7cb5ed-46dd-4aa0-ab19-0a1979150fcf",
+  "productId": "49ed3e30-f648-43be-9663-46617aab7192",
+  "quantity": 5,
+  "createdAt": "2021-09-14T00:48:11.504Z"
+ },
+ {
+  "customerId": "9e1b0712-6fc2-463e-a867-25b530a7ce3e",
+  "productId": "ac5af445-e699-4bbf-9fa1-34e0cc4e48ea",
+  "quantity": 11,
+  "createdAt": "2021-01-07T01:02:03.928Z"
+ },
+ {
+  "customerId": "0a107d9c-9758-4f19-a688-3bea7421c53a",
+  "productId": "f5508bea-46ac-4285-8c20-3a5c0d978b92",
+  "quantity": 7,
+  "createdAt": "2021-10-19T00:04:08.050Z"
+ },
+ {
+  "customerId": "2fc2308e-cb04-456d-9d58-0d9f3dad510a",
+  "productId": "4fe0adc2-91d2-4b92-9924-de5394d037d8",
+  "quantity": 7,
+  "createdAt": "2021-07-22T09:31:42.625Z"
+ },
+ {
+  "customerId": "50b144c9-418d-471d-9ec2-e93e878e7479",
+  "productId": "f79048e3-8d7b-49e4-b4e5-e319fb216fdc",
+  "quantity": 2,
+  "createdAt": "2021-10-26T00:32:49.069Z"
+ },
+ {
+  "customerId": "6b7cb5ed-46dd-4aa0-ab19-0a1979150fcf",
+  "productId": "30c277a2-2020-48eb-87fd-ba63b3658c0f",
+  "quantity": 0,
+  "createdAt": "2021-02-27T13:43:12.801Z"
+ },
+ {
+  "customerId": "8c3e0b81-2060-4108-b1d4-838fd4134199",
+  "productId": "ac5af445-e699-4bbf-9fa1-34e0cc4e48ea",
+  "quantity": 5,
+  "createdAt": "2021-09-14T04:02:00.549Z"
+ },
+ {
+  "customerId": "6b7cb5ed-46dd-4aa0-ab19-0a1979150fcf",
+  "productId": "f79048e3-8d7b-49e4-b4e5-e319fb216fdc",
+  "quantity": 9,
+  "createdAt": "2021-07-11T00:01:56.597Z"
+ },
+ {
+  "customerId": "83b452ac-d600-4c9f-ab44-7c31177e14e4",
+  "productId": "53f403b1-5d51-4aae-920e-8be7de5d05c1",
+  "quantity": 3,
+  "createdAt": "2021-09-09T19:58:42.343Z"
+ },
+ {
+  "customerId": "801ae3e4-4790-4999-af94-b3186fb7680c",
+  "productId": "f5508bea-46ac-4285-8c20-3a5c0d978b92",
+  "quantity": 13,
+  "createdAt": "2021-05-23T12:04:26.660Z"
+ },
+ {
+  "customerId": "a0214f59-4314-42b2-bf95-f0db34739fde",
+  "productId": "dca3cae5-7d8e-482b-ba38-0d882d2462ff",
+  "quantity": 13,
+  "createdAt": "2021-03-22T07:32:05.676Z"
+ },
+ {
+  "customerId": "bd7f797a-71cf-46ce-b0ac-02b9b098104f",
+  "productId": "8fe34c15-336f-4d44-ba79-0660bb2456d6",
+  "quantity": 12,
+  "createdAt": "2021-12-05T16:38:24.714Z"
+ },
+ {
+  "customerId": "883eff43-1822-40bb-a90c-083ceb1c462a",
+  "productId": "6869d317-173c-4da8-bdad-7185a427c49e",
+  "quantity": 5,
+  "createdAt": "2021-05-20T22:49:22.761Z"
+ },
+ {
+  "customerId": "883eff43-1822-40bb-a90c-083ceb1c462a",
+  "productId": "6cb4d9f6-3612-4738-9049-b294af0eaf80",
+  "quantity": 3,
+  "createdAt": "2021-04-05T20:32:46.168Z"
+ },
+ {
+  "customerId": "d054a775-6360-4685-a986-2f6aa346053c",
+  "productId": "43a58a30-7a5f-4b53-adf8-08a4a207afa2",
+  "quantity": 3,
+  "createdAt": "2021-07-30T04:04:23.928Z"
+ },
+ {
+  "customerId": "2fc2308e-cb04-456d-9d58-0d9f3dad510a",
+  "productId": "ac5af445-e699-4bbf-9fa1-34e0cc4e48ea",
+  "quantity": 5,
+  "createdAt": "2021-03-09T18:59:46.311Z"
+ },
+ {
+  "customerId": "2542f6e3-d68f-4152-b6a8-64d49746cb60",
+  "productId": "f4360998-46b1-43b6-97dd-deba72b86cc1",
+  "quantity": 6,
+  "createdAt": "2021-06-29T03:38:03.304Z"
+ },
+ {
+  "customerId": "eeca8404-4d88-4dc2-91b0-87c0917c5a1c",
+  "productId": "b6ebdd2a-4f10-4f53-aa71-c3f851e69875",
+  "quantity": 8,
+  "createdAt": "2021-03-22T02:14:43.294Z"
+ },
+ {
+  "customerId": "89b62487-38cd-4bd2-8df0-ed58b6ac3bbf",
+  "productId": "5e9da9d1-eaaa-49b6-af92-6ed4587a8352",
+  "quantity": 10,
+  "createdAt": "2021-03-05T13:44:21.493Z"
+ },
+ {
+  "customerId": "60430a27-c822-499e-b1d7-92f4ec9a0b13",
+  "productId": "f6bfa455-ff2c-4aed-8566-3e44bcbc7a54",
+  "quantity": 8,
+  "createdAt": "2021-02-13T00:25:30.540Z"
+ },
+ {
+  "customerId": "501c55ff-2375-4a80-847d-12508badc526",
+  "productId": "c8a0d902-4a5f-41da-bdb5-c37783255b27",
+  "quantity": 1,
+  "createdAt": "2021-12-12T03:04:50.458Z"
+ },
+ {
+  "customerId": "0a107d9c-9758-4f19-a688-3bea7421c53a",
+  "productId": "10b57ae2-ad0a-4219-b9b2-617de42ffc00",
+  "quantity": 9,
+  "createdAt": "2021-07-04T16:06:52.311Z"
+ },
+ {
+  "customerId": "7e65f92f-f6c3-4d2a-9a07-50f5c73b9777",
+  "productId": "27a8987e-6a91-4d4c-b96e-517f1013f6c1",
+  "quantity": 2,
+  "createdAt": "2021-04-27T17:27:15.736Z"
+ },
+ {
+  "customerId": "801ae3e4-4790-4999-af94-b3186fb7680c",
+  "productId": "f4360998-46b1-43b6-97dd-deba72b86cc1",
+  "quantity": 6,
+  "createdAt": "2021-08-15T19:56:33.830Z"
+ },
+ {
+  "customerId": "ca853d03-3b34-49c4-a8c6-503dc74fb0b2",
+  "productId": "88be8863-f604-4e7e-9643-b9f28cf4346e",
+  "quantity": 11,
+  "createdAt": "2021-01-28T01:37:37.106Z"
+ },
+ {
+  "customerId": "86ffa3ff-8a8c-4275-a082-9be055bdcb7b",
+  "productId": "90e4a0ab-3a16-4130-bf51-cc788701a051",
+  "quantity": 14,
+  "createdAt": "2021-11-08T09:31:14.156Z"
+ },
+ {
+  "customerId": "7fd00d1d-6794-4dc9-b82d-ebe573da69a1",
+  "productId": "7579eb8d-6044-41b6-90e4-687f613a270c",
+  "quantity": 12,
+  "createdAt": "2021-11-03T16:28:57.963Z"
+ },
+ {
+  "customerId": "d71a9dfe-8132-4db4-bb98-ffd9bd209f81",
+  "productId": "9739bf8c-b591-4f23-8c6e-c3e925defcfe",
+  "quantity": 5,
+  "createdAt": "2021-06-04T12:40:07.856Z"
+ },
+ {
+  "customerId": "7fd00d1d-6794-4dc9-b82d-ebe573da69a1",
+  "productId": "d810a8a4-392b-4d7a-a135-fd35f33573d8",
+  "quantity": 9,
+  "createdAt": "2021-05-22T04:27:12.268Z"
+ },
+ {
+  "customerId": "4357e56a-be87-47c7-b1af-2262e29dcf8f",
+  "productId": "4d9ea719-6809-48d2-8be6-951a3a9b3e26",
+  "quantity": 13,
+  "createdAt": "2021-12-12T11:32:17.296Z"
+ },
+ {
+  "customerId": "2542f6e3-d68f-4152-b6a8-64d49746cb60",
+  "productId": "5bd7cc9a-b4e8-4db8-880b-46c8e7ad2dc6",
+  "quantity": 14,
+  "createdAt": "2021-11-22T04:36:01.840Z"
+ },
+ {
+  "customerId": "601e4d3b-d88b-40cc-96c2-cb9964b00bc5",
+  "productId": "97b04794-db08-42cd-99b8-d384fd56c18e",
+  "quantity": 4,
+  "createdAt": "2021-07-10T08:48:59.694Z"
+ },
+ {
+  "customerId": "85c9427f-950f-4936-bcd5-3ed9823c9900",
+  "productId": "5bd7cc9a-b4e8-4db8-880b-46c8e7ad2dc6",
+  "quantity": 2,
+  "createdAt": "2021-12-28T06:40:27.583Z"
+ },
+ {
+  "customerId": "7e65f92f-f6c3-4d2a-9a07-50f5c73b9777",
+  "productId": "4fe0adc2-91d2-4b92-9924-de5394d037d8",
+  "quantity": 15,
+  "createdAt": "2021-07-28T09:46:48.209Z"
+ },
+ {
+  "customerId": "eee9d6ea-3216-4355-a2d9-16fd227b23e9",
+  "productId": "30c277a2-2020-48eb-87fd-ba63b3658c0f",
+  "quantity": 11,
+  "createdAt": "2021-04-17T15:58:17.822Z"
+ },
+ {
+  "customerId": "85c9427f-950f-4936-bcd5-3ed9823c9900",
+  "productId": "3092de5a-9923-430c-a274-eb0090b46575",
+  "quantity": 2,
+  "createdAt": "2021-06-26T12:58:18.891Z"
+ }
+]
