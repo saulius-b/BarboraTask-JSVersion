@@ -23,7 +23,7 @@ const generateCustomerReport = () => {
 			items.push({ ...element, ...customerProduct[0] })
 		}
 
-		items.sort((x, y) => +new Date(x.createdAt) - +new Date(y.createdAt));
+		items.sort((x, y) => new Date(x.createdAt) - new Date(y.createdAt));
 
 		//Getting total price
 		const total = items.reduce((accum, item) => accum + (parseInt(item.price) * item.quantity), 0)
