@@ -6,4 +6,3 @@ A single CustomerReport contains:
 2. Receipts with product information (Items array with Item objects (customerId, productId, quantity, createdAt, id, product, price) )
 3. Total customer receipts sum
 4. Receipt sum grouped by day (byDay object)
-
